@@ -3,7 +3,7 @@ import React from 'react'
 export default function TeamPhotoSection() {
     return (
         <div className="row bg-theme">
-            <div className="col-5 col-sm-5 mx-auto my-5 ">
+            <div className="col-4 col-sm-6 mx-auto my-5 ">
             <div className="card-group">
   <div className="card">
     <div className="card-body">
