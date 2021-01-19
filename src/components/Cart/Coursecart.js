@@ -39,7 +39,7 @@ export default class Coursecart extends Component {
                                                 data-item-id={node.id}
                                                 data-item-name={node.title}
                                                 data-item-price={node.price}
-                                                data-item-url="https://myapp.com/products/bacon"
+                                                data-item-url="https://abhishekprojectlco.netlify.app/"
                                             >Add to cart</button>
                                         </div>
                                     </div>
