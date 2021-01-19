@@ -6,6 +6,7 @@ import SEO from "../components/seo"
 import HeroSection from '../components/Reusable/HeroSection'
 import Infoblock from '../components/Reusable/Infoblock'
 import TeamPhotoSection from '../components/Contact/TeamPhotoSection'
+import Contact from '../components/Contact/Contact'
 
 
 const ContactPage = ({data}) => (
@@ -18,6 +19,7 @@ const ContactPage = ({data}) => (
       heroclass="about-background"
     />
     <Infoblock heading="How Can We Help?"/>
+    <Contact/>
     <TeamPhotoSection />
   </Layout>
 )
