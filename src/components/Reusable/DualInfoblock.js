@@ -20,7 +20,7 @@ export default function DualInfoblock({heading, address}) {
                     <div className="card-body">
                     <h5 className="card-title text-white">Code and build</h5>
                     <p className="card-text text-white">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                    < Link to="/">
+                    < Link to="/contact">
                         <button className="btn btn-warning btn-block" >{heading}</button>
                     </Link>
                     </div>
